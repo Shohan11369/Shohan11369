@@ -141,24 +141,19 @@ HTML • CSS • JavaScript • Sass
 
 
 ---
-
 # 📊 GitHub Analytics
-
-
-<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shohan11369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shohan11369&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan11369&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan11369&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
 
-<br/>
+<br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=Shohan11369&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Shohan11369&theme=github-dark&hide_border=true" width="60%"/>
 
 </div>
-
 
 ---
 

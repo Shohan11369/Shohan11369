@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Shohan%20Md%20Mizanur%20Rahman&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="./banner.jpg" width="100%" />
 
 </div>
 

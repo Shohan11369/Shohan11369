@@ -1,100 +1,169 @@
-<h1 align="center">👋 Hi, I'm Shohan Md Mizanur Rahman</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Shohan%20Md%20Mizanur%20Rahman&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+
+<h2 align="center">
+👋 Hi, I'm Shohan Md Mizanur Rahman
+</h2>
 
 <h3 align="center">
-💻 Full Stack Web Developer | MERN Stack Developer | Next.js Developer
+🚀 Full Stack Web Developer | MERN Stack Developer | Next.js Developer
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shohan11&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
-</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shohan11369&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</div>
+
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Bachelor of Information Technology (BIT) student at Lincoln University College, Malaysia, passionate about Full Stack Web Development.
+🎓 I'm a Bachelor of Information Technology (BIT) student at **Lincoln University College, Malaysia**.
 
-I build modern, responsive, and scalable web applications using React.js, Next.js, Node.js, Express.js, and MongoDB.
+💻 Passionate about building modern, responsive, and scalable web applications.
 
-Currently improving my skills in MERN Stack development and exploring advanced frontend technologies.
+🚀 Currently focusing on **MERN Stack, Next.js, Backend Development, and API Integration**.
 
----
-
-## 🚀 Current Activities
-
-- 🌱 Exploring **Next.js 16 and App Router**
-- 🔥 Building full-stack applications using **MERN Stack**
-- 💻 Working on AI-based and web application projects
-- 📚 Learning advanced backend development and API integration
-- 🚀 Improving problem-solving skills with programming challenges
+🌱 Always learning new technologies and improving my problem-solving skills.
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 Current Activities
 
-<p align="left">
-<a href="mailto:sarkershohan346@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
-</a>
+- 🌱 Exploring **Next.js 16 App Router**
+- 🚀 Building full-stack applications with **MERN Stack**
+- 🤖 Developing AI-based web applications
+- 💳 Learning payment integration with **Stripe**
+- 📚 Improving backend architecture and database design
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+
+</p>
+
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+</p>
+
+
+## 🗄️ Database & Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,cpp,cs"/>
+
+</p>
+
+
+## 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+
+</p>
+
+
+---
+
+# 🚀 Featured Projects
+
+
+### 🗳️ Smart EVM System
+
+Electronic Voting Machine system developed as a university project.
+
+**Tech:**
+React.js • Node.js • Express.js • MongoDB • Tailwind CSS
+
+
+---
+
+### 🤖 AI Prompt Client
+
+Full-stack AI prompt management platform.
+
+**Tech:**
+Next.js 16 • MongoDB • Better Auth • Stripe • Hero UI • Tailwind CSS
+
+
+---
+
+### 🏨 Hotel Booking Website
+
+Responsive hotel booking website with modern UI.
+
+**Tech:**
+HTML • CSS • JavaScript • Sass
+
+
+---
+
+# 🌐 Connect With Me
+
+
+<p align="center">
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="YOUR_GITHUB_LINK">
-<img src="https://img.icons8.com/fluency/48/github.png" width="40"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="mailto:sarkershohan346@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 </p>
 
----
-
-# 🛠️ Skills
-
-## 🎨 Frontend Development
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
-
-
-## ⚙️ Backend Development
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
-
-
-## 🧰 Tools & Others
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-</p>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shohan11&show_icons=true&hide_border=true"/>
-</p>
+# 📊 GitHub Analytics
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan11&layout=compact&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shohan11369&show_icons=true&hide_border=true&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan11369&layout=compact&hide_border=true&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Shohan11369&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shohan11&hide_border=true"/>
-</p>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>

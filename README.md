@@ -145,13 +145,17 @@ HTML • CSS • JavaScript • Sass
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shohan11369&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shohan11369&show_icons=true&theme=default&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan11369&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan11369&layout=compact&theme=default&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Shohan11369&theme=github-dark&hide_border=true" width="60%"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=Shohan11369&theme=default&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shohan11369&theme=github-light&hide_border=true" />
 
 </div>
 

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Shohan11369</h1>
+<h1 align="center">👋 Hi, I'm Shohan Md Mizanur Rahman</h1>
 <h3 align="center">💻 Full Stack Web Developer (In Progress)</h3>
 
 ---
